@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <resources>
+        <string-array name="ciudades">
+            
+            <item>Zaragoza</item>
+		<item>Madrid</item>
+		<item>Valencia</item>
+		<item>Pontevedra</item>
+		<item>Vigo</item>
+		<item>Barcelona</item>
+            
+        </string-array>
+    </resources>
